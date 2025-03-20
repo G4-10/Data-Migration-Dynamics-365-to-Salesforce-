@@ -1,4 +1,11 @@
 # 🛠️ Data Migration Project: Microsoft Dynamics 365 ➡️ Salesforce
+![image](https://github.com/user-attachments/assets/ba9d3adf-921f-4fee-9fc2-8238a8010bba)
+
+---
+This was a project from KIPCCUL, a company I worked with in Cameroon. The requirement was to migrate their existing data, containing about 700,000 records, from Microsoft Dynamics 365 CRM to Salesforce CRM. I was also required to create a data model in Salesforce to match their existing business use case in Dynamics 365. I provided a guided, step-by-step approach for the migration, and the project was a great success.
+
+---
+![Data Migration (Dynamics 360 to saleforce)](https://github.com/user-attachments/assets/13e9f044-dd1c-474e-b095-f6f521230e78)
 
 This project documents the complete process I followed to migrate data from **Microsoft Dynamics 365** to **Salesforce**, using **Salesforce Data Loader** as the primary tool. The migration process was carried out in six key phases to ensure a smooth, accurate, and efficient transition of business-critical data.
 
